@@ -1,5 +1,5 @@
 {
-  "name": "infosite (11ty and netlify)",
+  "name": "infosite-11ty-and-netlify",
   "version": "1.0.0",
   "description": "Infosite for LBGG, made with a templated starter website repo using eleventy and netlify, and netlify CMS",
   "scripts": {
